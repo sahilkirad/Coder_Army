@@ -1,4 +1,4 @@
-High-Precision OCR for Aadhaar/PAN Documents (NLTK-based)
+<h1>High-Precision OCR for Aadhaar/PAN Documents (NLTK-based)</h1>
 
 📝Overview
 ---------------------------------------------------------------------------------------------------------------------
